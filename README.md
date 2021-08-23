@@ -1,6 +1,6 @@
 # Hi 👋 Developer, Designer and Tech Person.
 
- <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobeillustrator.svg" alt="Girl in a jacket" width="500" height="600"> 
+ <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobeillustrator.svg" alt="Girl in a jacket" width="50" height="60"> 
 
 <br/>
 <br/>
