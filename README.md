@@ -40,10 +40,23 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 - Vim.
 - Visual Studio Code.
 - Aseprite
+<h3 align='center'>Programming Language</h3>
+<p align='center'>
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/c.svg" alt="c" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/cplusplus.svg" alt="c plus plus" width="50" height="60">
+</p>
+
+<h3 align='center'>Back-end</h3>
+<p align='center'>
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/c.svg" alt="angula" width="50" height="60">
+</p>
 
 <h3 align='center'>Web and Apps Development</h3>
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/angular.svg" alt="angula" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/css3.svg" alt="css 3" width="50" height="60">
 </p>
 
 <h3 align='center'>Development Environments</h3>
@@ -62,6 +75,8 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobephotoshop.svg" alt="adobe photoshop" width="50" height="60">
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobexd.svg" alt="adobe xd" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/blender.svg" alt="blender" width="50" height="60">
 </p>
 
 
