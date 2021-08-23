@@ -42,9 +42,11 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 - Aseprite
 
 ### Tools.
- <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobeillustrator.svg" alt="adobe illustrato" width="50" height="60"> 
- <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobephotoshop.svg" alt="adobe photoshop" width="50" height="60"> 
- <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobexd.svg" alt="adobe xd" width="50" height="60"> 
+<p align='center'>
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobeillustrator.svg" alt="adobe illustrato" width="50" height="60">
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobephotoshop.svg" alt="adobe photoshop" width="50" height="60">
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobexd.svg" alt="adobe xd" width="50" height="60">
+</p>
 
 
 <div style="display: flex;width: 100vw; flex-wrap: wrap; justify-content:center;gap: 25px;">
