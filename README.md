@@ -30,30 +30,6 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 
 ## My favorite Tech.
 
-### Programming Language
-- C / C++ / Rust.
-- Haskell.
-- Python / JavaScript / Lua.
-
-### Database
-- MongoDB.
-- SQL.
-
-### Frontend
-- CSS, JavaScript, HTML.
-- React, Svelte, Angular.
-- Electron, Ionic.
-- TypeScript.
-
-### Project Managment
-- Jira.
-- Trello.
-
-### Tools.
-- Vim.
-- Visual Studio Code.
-- Aseprite
-
 <h3 align='center'>Platforms</h3>
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/debian.svg" alt="c" width="50" height="60">
@@ -137,7 +113,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/inkscape.svg" alt="blender" width="50" height="60">
 </p>
 
-<h3 align='center'>Tools</h3>
+<h3 align='center'>Project Managment</h3>
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/jira.svg" alt="aseprite" width="50" height="60">
 &nbsp;&nbsp;
