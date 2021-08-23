@@ -41,7 +41,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 - Visual Studio Code.
 - Aseprite
 
-### Tools.
+<h3 align='center'>Tools.</h3>
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobeillustrator.svg" alt="adobe illustrato" width="50" height="60">
 &nbsp;&nbsp;
