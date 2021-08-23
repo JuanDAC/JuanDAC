@@ -41,9 +41,23 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 - Visual Studio Code.
 - Aseprite
 
-<h3 align='center'>Tools.</h3>
+<h3 align='center'>Web and Apps Development</h3>
 <p align='center'>
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobeillustrator.svg" alt="adobe illustrato" width="50" height="60">
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/angular.svg" alt="angula" width="50" height="60">
+</p>
+
+<h3 align='center'>Development Environments</h3>
+<p align='center'>
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/androidstudio.svg" alt="android studio" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/arduino.svg" alt="arduino" width="50" height="60">
+</p>
+
+<h3 align='center'>Design Tools</h3>
+<p align='center'>
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/aseprite.svg" alt="aseprite" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobeillustrator.svg" alt="adobe illustrator" width="50" height="60">
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobephotoshop.svg" alt="adobe photoshop" width="50" height="60">
 &nbsp;&nbsp;
