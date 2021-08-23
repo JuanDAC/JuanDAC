@@ -1,6 +1,5 @@
 # Hi 👋 Developer, Designer and Tech Person.
 
- <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobeillustrator.svg" alt="Girl in a jacket" width="50" height="60"> 
 
 <br/>
 <br/>
@@ -41,6 +40,12 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 - Vim.
 - Visual Studio Code.
 - Aseprite
+
+### Tools.
+ <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobeillustrator.svg" alt="adobe illustrato" width="50" height="60"> 
+ <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobephotoshop.svg" alt="adobe photoshop" width="50" height="60"> 
+ <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/adobexd.svg" alt="adobe xd" width="50" height="60"> 
+
 
 <div style="display: flex;width: 100vw; flex-wrap: wrap; justify-content:center;gap: 25px;">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDAC&theme=vue&show_icons=true" alt="My github stats" />
