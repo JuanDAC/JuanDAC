@@ -29,7 +29,6 @@ I believe in technology as a tool that can change people's lives for the better.
 I have knowledge of software design patterns under the SOLID principles, agile methodologies, and programming languages as JavaScript and NodeJS | C | Haskell | Lua | Python | Java | SQL and NoSQL as MongoDB React | and other web technologies.
 
 I'm passionate about the Back-end as much as the Front-end, dynamic programming, design thinking, user experience and artificial intelligence.
-
 I’m currently learning about Low Level and IA Machine Learnig In Holberton School
 
 ## My favorite Tech.
@@ -57,7 +56,11 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 </marquee>
 </details>
 
-<h3 align='center'>Programming Language</h3>
+<details  style="user-select: none;">
+<summary>
+<h3 align='center'>↘️ Programming Language</h3>
+</summary>
+<marquee direction="left">
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/c.svg" alt="c" width="50" height="60">
 &nbsp;&nbsp;
@@ -73,8 +76,15 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/rust.svg" alt="kubernetes" width="50" height="60">
 </p>
+</marquee>
+</details>
 
-<h3 align='center'>Basedata</h3>
+
+<details  style="user-select: none;">
+<summary>
+<h3 align='center'>↘️ Basedata</h3>
+</summary>
+<marquee direction="left">
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/firebase.svg" alt="firebase" width="50" height="60">
 &nbsp;&nbsp;
@@ -84,8 +94,14 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/mysql.svg" alt="graphql" width="50" height="60">
 </p>
+</marquee>
+</details>
 
-<h3 align='center'>Back-end</h3>
+<details  style="user-select: none;">
+<summary>
+<h3 align='center'>↘️ Back-end</h3>
+</summary>
+<marquee direction="left">
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/deno.svg" alt="deno" width="50" height="60">
 &nbsp;&nbsp;
@@ -103,8 +119,14 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/xampp.svg" alt="heroku" width="50" height="60">
 </p>
+</marquee>
+</details>
 
-<h3 align='center'>Front end</h3>
+<details  style="user-select: none;">
+<summary>
+<h3 align='center'>↘️ Front end</h3>
+</summary>
+<marquee direction="left">
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/angular.svg" alt="angula" width="50" height="60">
 &nbsp;&nbsp;
@@ -138,8 +160,14 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/typescript.svg" alt="javascript" width="50" height="60">
 </p>
+</marquee>
+</details>
 
-<h3 align='center'>Development Environments</h3>
+<details  style="user-select: none;">
+<summary>
+<h3 align='center'>↘️ Development Environments</h3>
+</summary>
+<marquee direction="left">
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/androidstudio.svg" alt="android studio" width="50" height="60">
 &nbsp;&nbsp;
@@ -159,8 +187,14 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/visualstudiocode.svg" alt="heroku" width="50" height="60">
 </p>
+</marquee>
+</details>
 
-<h3 align='center'>Design Tools</h3>
+<details  style="user-select: none;">
+<summary>
+<h3 align='center'>↘️ Design Tools</h3>
+</summary>
+<marquee direction="left">
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/aseprite.svg" alt="aseprite" width="50" height="60">
 &nbsp;&nbsp;
@@ -176,8 +210,14 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/inkscape.svg" alt="blender" width="50" height="60">
 </p>
+</marquee>
+</details>
 
-<h3 align='center'>Project Managment</h3>
+<details  style="user-select: none;">
+<summary>
+<h3 align='center'>↘️ Project Managment</h3>
+</summary>
+<marquee direction="left">
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/jira.svg" alt="aseprite" width="50" height="60">
 &nbsp;&nbsp;
@@ -187,6 +227,8 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/libreoffice.svg" alt="adobe photoshop" width="50" height="60">
 </p>
+</marquee>
+</details>
 
 <div style="display: flex;width: 100vw; flex-wrap: wrap; justify-content:center;gap: 25px;">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDAC&theme=vue&show_icons=true" alt="My github stats" />
