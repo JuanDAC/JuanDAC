@@ -34,22 +34,26 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 
 ## My favorite Tech.
 
-<h3 align='center'>Platforms</h3>
-<p align='center' onmouseover="console.log(this)" onmouseout="console.log(this)">
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/debian.svg" alt="debian" width="50" height="60">
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/docker.svg" alt="docker" width="50" height="60">
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/kubernetes.svg" alt="kubernetes" width="50" height="60">
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/linux.svg" alt="kubernetes" width="50" height="60">
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/netlify.svg" alt="heroku" width="50" height="60">
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/ubuntu.svg" alt="ubuntu" width="50" height="60">
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/unity.svg" alt="ubuntu" width="50" height="60">
-</p>
+<details  style="user-select: none;">
+	<summary>
+		<h3 align='center'>Platforms</h3>
+	</summary>
+	<p align='center'>
+		<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/debian.svg" alt="debian" width="50" height="60">
+		&nbsp;&nbsp;
+		<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/docker.svg" alt="docker" width="50" height="60">
+		&nbsp;&nbsp;
+		<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/kubernetes.svg" alt="kubernetes" width="50" height="60">
+		&nbsp;&nbsp;
+		<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/linux.svg" alt="kubernetes" width="50" height="60">
+		&nbsp;&nbsp;
+		<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/netlify.svg" alt="heroku" width="50" height="60">
+		&nbsp;&nbsp;
+		<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/ubuntu.svg" alt="ubuntu" width="50" height="60">
+		&nbsp;&nbsp;
+		<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/unity.svg" alt="ubuntu" width="50" height="60">
+	</p>
+</details>
 
 <h3 align='center'>Programming Language</h3>
 <p align='center'>
