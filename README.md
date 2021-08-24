@@ -34,8 +34,8 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 ## My favorite Tech.
 
 <details  style="user-select: none;">
-<summary align='center'>
-↘️ Platforms
+<summary>
+Platforms ↘️
 </summary>
 <marquee direction="left">
 <p align='center'>
@@ -58,7 +58,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 
 <details  style="user-select: none;">
 <summary>
-<h3 align='center'>↘️ Programming Language</h3>
+Programming Language ↘️
 </summary>
 <marquee direction="left">
 <p align='center'>
@@ -82,7 +82,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 
 <details  style="user-select: none;">
 <summary>
-<h3 align='center'>↘️ Basedata</h3>
+Basedata ↘️
 </summary>
 <marquee direction="left">
 <p align='center'>
@@ -99,7 +99,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 
 <details  style="user-select: none;">
 <summary>
-<h3 align='center'>↘️ Back-end</h3>
+Back-end ↘️
 </summary>
 <marquee direction="left">
 <p align='center'>
@@ -124,7 +124,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 
 <details  style="user-select: none;">
 <summary>
-<h3 align='center'>↘️ Front end</h3>
+Front end ↘️
 </summary>
 <marquee direction="left">
 <p align='center'>
@@ -165,7 +165,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 
 <details  style="user-select: none;">
 <summary>
-<h3 align='center'>↘️ Development Environments</h3>
+Development Environments ↘️
 </summary>
 <marquee direction="left">
 <p align='center'>
@@ -192,7 +192,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 
 <details  style="user-select: none;">
 <summary>
-<h3 align='center'>↘️ Design Tools</h3>
+Design Tools ↘️
 </summary>
 <marquee direction="left">
 <p align='center'>
@@ -215,7 +215,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 
 <details  style="user-select: none;">
 <summary>
-<h3 align='center'>↘️ Project Managment</h3>
+Project Managment ↘️
 </summary>
 <marquee direction="left">
 <p align='center'>
