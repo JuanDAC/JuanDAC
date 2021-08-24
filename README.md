@@ -35,7 +35,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 ## My favorite Tech.
 
 <h3 align='center'>Platforms</h3>
-<p align='center'>
+<p align='center' onmouseover="console.log(this)" onmouseout="console.log(this)">
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/debian.svg" alt="debian" width="50" height="60">
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/docker.svg" alt="docker" width="50" height="60">
