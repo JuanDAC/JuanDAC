@@ -36,7 +36,7 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 
 <details  style="user-select: none;">
 <summary>
-<h3 align='center'>Platforms ↘️</h3>
+<h3 align='center'>↘️ Platforms</h3>
 </summary>
 <marquee direction="left">
 <p align='center'>
