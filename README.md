@@ -34,8 +34,8 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 ## My favorite Tech.
 
 <details  style="user-select: none;">
-<summary>
-<h3 align='center'>↘️ Platforms</h3>
+<summary align='center'>
+↘️ Platforms
 </summary>
 <marquee direction="left">
 <p align='center'>
