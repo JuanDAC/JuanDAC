@@ -46,7 +46,9 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/netlify.svg" alt="heroku" width="50" height="60">
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/nginx.svg" alt="heroku" width="50" height="60">
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/ubuntu.svg" alt="ubuntu" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/unity.svg" alt="ubuntu" width="50" height="60">
 </p>
 
 <h3 align='center'>Programming Language</h3>
@@ -90,9 +92,13 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/php.svg" alt="kubernetes" width="50" height="60">
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/python.svg" alt="kubernetes" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/nginx.svg" alt="heroku" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/xampp.svg" alt="heroku" width="50" height="60">
 </p>
 
-<h3 align='center'>Web and Apps Development</h3>
+<h3 align='center'>Front end</h3>
 <p align='center'>
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/angular.svg" alt="angula" width="50" height="60">
 &nbsp;&nbsp;
@@ -117,6 +123,14 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/redux.svg" alt="javascript" width="50" height="60">
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/sass.svg" alt="javascript" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/styledcomponents.svg" alt="javascript" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/styledcomponents.svg" alt="javascript" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/svelte.svg" alt="javascript" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/typescript.svg" alt="javascript" width="50" height="60">
 </p>
 
 <h3 align='center'>Development Environments</h3>
@@ -134,6 +148,10 @@ I’m currently learning about Low Level and IA Machine Learnig In Holberton Sch
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/heroku.svg" alt="heroku" width="50" height="60">
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/neovim.svg" alt="heroku" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/vim.svg" alt="heroku" width="50" height="60">
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/visualstudiocode.svg" alt="heroku" width="50" height="60">
 </p>
 
 <h3 align='center'>Design Tools</h3>
