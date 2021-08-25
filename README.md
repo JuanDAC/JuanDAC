@@ -19,8 +19,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
 
 I'm **JuanDAC** Juan David Avila Caycedo
 
