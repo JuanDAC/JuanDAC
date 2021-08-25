@@ -18,8 +18,6 @@
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/patreon.svg" alt="patreon" width="50" height="60">
 </p>
 
-<br/>
-
 I'm **JuanDAC** Juan David Avila Caycedo
 
 I believe in technology as a tool that can change people's lives for the better. for this reason I'm self-taught
