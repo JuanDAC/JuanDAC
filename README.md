@@ -1,31 +1,51 @@
 # Hi 👋 Developer, Designer and Tech Person.
 
 <p align='center'>
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/discord.svg" alt="c" width="50" height="60">
-&nbsp;&nbsp;
+<!-- <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/discord.svg" alt="c" width="50" height="60">
+&nbsp;&nbsp; -->
+<a href="https://twitter.com/juanDAC_Dev" >
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/twitter.svg" alt="twitter" width="50" height="60">
+</a>
 &nbsp;&nbsp;
+<a href="https://music.youtube.com/channel/UCBq_b-xeNlDm6QTAuX3rAnQ" >
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/youtubemusic.svg" alt="youtubemusic" width="50" height="60">
+</a>
+<!--
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/fandom.svg" alt="fandom" width="50" height="60">
+ <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/fandom.svg" alt="fandom" width="50" height="60"> 
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/instagram.svg" alt="instagram" width="50" height="60">
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/instagram.svg" alt="instagram" width="50" height="60"> 
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/itchdotio.svg" alt="itchdotio" width="50" height="60">
+-->
 &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/juandac/" >
 <img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/linkedin.svg" alt="itchdotio" width="50" height="60">
+</a>
+<!-- 
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/patreon.svg" alt="patreon" width="50" height="60">
+<img src="https://raw.githubusercontent.com/JuanDAC/JuanDAC/main/icons/patreon.svg" alt="patreon" width="50" height="60"> -->
 </p>
 
 I'm **JuanDAC** Juan David Avila Caycedo
 
-I believe in technology as a tool that can change people's lives for the better. for this reason I'm self-taught
+I believe in technology as a tool that can change people's lives for the better. That is why I am self-taught, improving my knowledge around my passion to make this world so better.
 
-I have knowledge of software design patterns under the SOLID principles, agile methodologies, and programming languages as JavaScript and NodeJS | C | Haskell | Lua | Python | Java | SQL and NoSQL as MongoDB React | and other web technologies.
+I have knowledge of software design patterns under the SOLID principles, agile methodologies, clear architecture with programming languages as Typescript | JavaScript and NodeJS | C | Haskell | Lua | Python | Java | SQL and NoSQL as MongoDB React | and other web technologies.
 
-I'm passionate about the Back-end as much as the Front-end, dynamic programming, design thinking, user experience and artificial intelligence.
-I’m currently learning about Low Level and IA Machine Learnig In Holberton School
+I'm passionate about the Back-end as much as the Front-end, dynamic programming, design thinking, user experience and artificial intelligence with focus on Machine Learning.
+
+I’m currently learning about IA Machine Learnig at Holberton School Mathematics Pure at Konrad Lorenz
+
+## Stats
+
+<div style="display: flex;width: 100vw; flex-wrap: wrap; justify-content:center;gap: 25px;">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDAC&theme=vue&show_icons=true" alt="My github stats" />
+<br/>
+<br/>
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDAC&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
+</div>
 
 ## My favorite Tech.
 
@@ -74,7 +94,6 @@ Programming Language ↘️
 </p>
 </marquee>
 </details>
-
 
 <details  style="user-select: none;">
 <summary>
@@ -225,11 +244,3 @@ Project Managment ↘️
 </p>
 </marquee>
 </details>
-
-<div style="display: flex;width: 100vw; flex-wrap: wrap; justify-content:center;gap: 25px;">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanDAC&theme=vue&show_icons=true" alt="My github stats" />
-<br/>
-<br/>
-<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDAC&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
-</div>
