@@ -34,7 +34,7 @@ I specialize in designing and building full-stack applications that are not only
 
 ## 🌐 My Professional Journey
 
-- **Software Architect at Mancii (Holberton School):** Leading the integration of advanced AI solutions, overseeing strategic technical decisions, and guiding the development of core functionalities.
+- **Software Architect at coderise:** Leading the integration of advanced AI solutions, overseeing strategic technical decisions, and guiding the development of core functionalities.
 - **Full Stack Developer and Mentor at Holberton School:** Mentoring over 50 aspiring developers while building scalable SaaS architectures.
 - **Full Stack Developer at Lapislazuli CP:** Collaborating with design and management teams to enhance application features.
 
